@@ -66,7 +66,6 @@ require (
 	github.com/muesli/termenv v0.15.1 // indirect
 	github.com/nwaples/rardecode v1.1.3 // indirect
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
-	github.com/projectdiscovery/gologger v1.1.11 // indirect
 	github.com/refraction-networking/utls v1.3.3 // indirect
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/rs/xid v1.5.0 // indirect
