@@ -14,9 +14,9 @@ import (
 
 	"github.com/olekukonko/tablewriter"
 	"github.com/pkg/errors"
-	"github.com/khulnasoft-labs/vulscan/pkg/catalog/disk"
-	"github.com/khulnasoft-labs/vulscan/pkg/types"
-	stringsutil "github.com/boss-net/goutils/strings"
+	"github.com/khulnasoft-labs/vulscan/v2/pkg/catalog/disk"
+	"github.com/khulnasoft-labs/vulscan/v2/pkg/types"
+	stringsutil "github.com/khulnasoft-labs/utils/strings"
 	"gopkg.in/yaml.v2"
 )
 
