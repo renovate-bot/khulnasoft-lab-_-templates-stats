@@ -94,8 +94,6 @@ github.com/khulnasoft-labs/fastdialer v0.0.35/go.mod h1:HLk54WRwulAWAbHblgvZK5nj
 github.com/khulnasoft-labs/goflags v0.1.11 h1:oeScJZFDpEB7m6fomgKUHSnKd5ebpoF/CsNXXCv3dBg=
 github.com/khulnasoft-labs/goflags v0.1.11/go.mod h1:N59F7WwxA7M1sgHK5nNC7N0uSEopii905wcl3+QyaoE=
 github.com/khulnasoft-labs/gologger v1.1.11 h1:8kW1kaPdEMcIcnnYGg7B5za5U3NMMQzO4MK4CYSg59Q=
-github.com/khulnasoft-labs/gologger v1.1.11 h1:8vsz9oJlDT9euw6xlj7F7dZ6RWItVIqVwn4Mr6uzky8=
-github.com/khulnasoft-labs/gologger v1.1.11/go.mod h1:UR2bgXl7zraOxYGnUwuO917hifWrwMJ0feKnVqMQkzY=
 github.com/khulnasoft-labs/gologger v1.1.11/go.mod h1:uf59FwoW8zCJryikNSc5I0gmkNUqSkl4tRSCjpV6uBk=
 github.com/khulnasoft-labs/hmap v0.0.14 h1:G9EsQY20Ttua4XrooP33LO+odkvaH3x4naYFEnAXEhI=
 github.com/khulnasoft-labs/hmap v0.0.14/go.mod h1:pEgEU8ypqNDSp4YnEepJeWunPKeH55j3yXbBUC/QqpM=
