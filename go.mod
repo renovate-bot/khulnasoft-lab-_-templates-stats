@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/khulnasoft-labs/utils v0.0.45
-	github.com/khulnasoft-labs/vulscan/v2 v2.0.0-20230724085540-3095407f01c8
+	github.com/khulnasoft-labs/vulscan/v2 v2.9.8
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/errors v0.9.1
 	gopkg.in/yaml.v2 v2.4.0
@@ -14,17 +14,21 @@ require (
 	aead.dev/minisign v0.2.0 // indirect
 	github.com/Masterminds/semver/v3 v3.2.1 // indirect
 	github.com/Mzack9999/go-http-digest-auth-client v0.6.1-0.20220414142836-eb8883508809 // indirect
+	github.com/PuerkitoBio/goquery v1.8.1 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/akrylysov/pogreb v0.10.1 // indirect
 	github.com/alecthomas/chroma v0.10.0 // indirect
 	github.com/alecthomas/jsonschema v0.0.0-20220216202328-9eeeec9d044b // indirect
 	github.com/andybalholm/brotli v1.0.5 // indirect
+	github.com/andybalholm/cascadia v1.3.1 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/charmbracelet/glamour v0.6.0 // indirect
 	github.com/cheggaaa/pb/v3 v3.1.4 // indirect
+	github.com/cloudflare/cfssl v1.6.4 // indirect
 	github.com/cnf/structhash v0.0.0-20201127153200-e1b16c1ebc08 // indirect
+	github.com/corpix/uarand v0.2.0 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
 	github.com/dlclark/regexp2 v1.8.1 // indirect
 	github.com/dsnet/compress v0.0.1 // indirect
@@ -36,9 +40,11 @@ require (
 	github.com/go-playground/validator/v10 v10.14.1 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
+	github.com/google/certificate-transparency-go v1.1.4 // indirect
 	github.com/google/go-github/v30 v30.1.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
+	github.com/hbakhtiyor/strsim v0.0.0-20190107154042-4d2bbb273edf // indirect
 	github.com/iancoleman/orderedmap v0.0.0-20190318233801-ac98e3ecb4b0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/khulnasoft-labs/blackrock v0.0.1 // indirect
@@ -46,7 +52,9 @@ require (
 	github.com/khulnasoft-labs/goflags v0.1.11 // indirect
 	github.com/khulnasoft-labs/gologger v1.1.11 // indirect
 	github.com/khulnasoft-labs/hmap v0.0.14 // indirect
+	github.com/khulnasoft-labs/httpx v1.3.4 // indirect
 	github.com/khulnasoft-labs/networkpolicy v0.0.6 // indirect
+	github.com/khulnasoft-labs/rawhttp v0.1.18 // indirect
 	github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e // indirect
 	github.com/khulnasoft-labs/retryablehttp-go v1.0.19 // indirect
 	github.com/klauspost/compress v1.16.6 // indirect
@@ -66,6 +74,17 @@ require (
 	github.com/muesli/termenv v0.15.1 // indirect
 	github.com/nwaples/rardecode v1.1.3 // indirect
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
+	github.com/projectdiscovery/blackrock v0.0.1 // indirect
+	github.com/projectdiscovery/cdncheck v1.0.9 // indirect
+	github.com/projectdiscovery/fastdialer v0.0.32 // indirect
+	github.com/projectdiscovery/goflags v0.1.11 // indirect
+	github.com/projectdiscovery/gologger v1.1.11 // indirect
+	github.com/projectdiscovery/hmap v0.0.13 // indirect
+	github.com/projectdiscovery/networkpolicy v0.0.6 // indirect
+	github.com/projectdiscovery/retryabledns v1.0.30 // indirect
+	github.com/projectdiscovery/retryablehttp-go v1.0.18 // indirect
+	github.com/projectdiscovery/tlsx v1.1.1 // indirect
+	github.com/projectdiscovery/utils v0.0.43 // indirect
 	github.com/refraction-networking/utls v1.3.3 // indirect
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/rs/xid v1.5.0 // indirect
