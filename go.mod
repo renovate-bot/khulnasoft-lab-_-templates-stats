@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/khulnasoft-labs/utils v0.0.45
-	github.com/khulnasoft-labs/vulscan/v2 v2.9.8
+	github.com/khulnasoft-labs/vulscan/v2 v2.9.10
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/errors v0.9.1
 	gopkg.in/yaml.v2 v2.4.0
